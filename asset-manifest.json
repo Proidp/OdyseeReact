@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/OdyseeReact/static/css/main.aafb0e88.css",
+    "main.js": "/OdyseeReact/static/js/main.9693e412.js",
+    "static/js/787.4081c6fa.chunk.js": "/OdyseeReact/static/js/787.4081c6fa.chunk.js",
+    "static/media/logo.png": "/OdyseeReact/static/media/logo.c73f84d1062607b63bc2.png",
+    "index.html": "/OdyseeReact/index.html",
+    "main.aafb0e88.css.map": "/OdyseeReact/static/css/main.aafb0e88.css.map",
+    "main.9693e412.js.map": "/OdyseeReact/static/js/main.9693e412.js.map",
+    "787.4081c6fa.chunk.js.map": "/OdyseeReact/static/js/787.4081c6fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aafb0e88.css",
+    "static/js/main.9693e412.js"
+  ]
+}
